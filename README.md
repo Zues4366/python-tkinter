@@ -1,6 +1,6 @@
 <h1>Pyhton/Tkinter Game Center</h1>
 
-<h1>A Simple "Sic Bo" Dice Game</h1>
+<h2>A Simple "Sic Bo" Dice Game</h2>
 
 - User gets to choose from four options:
   - Triple
